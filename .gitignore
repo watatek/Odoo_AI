@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.pyc
+/.run
+*.conf
+.editorconfig
+.odoo_data/
+.vscode/

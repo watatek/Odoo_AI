@@ -29,7 +29,8 @@ PROVIDERS = [
             ("gpt-4.1", "GPT-4.1"),
             ("gpt-4.1-mini", "GPT-4.1 Mini"),
             ("gpt-5", "GPT-5"),
-            ("gpt-5-mini", "GPT-5 Mini")
+            ("gpt-5-mini", "GPT-5 Mini"),
+            ("gpt-5.4-mini", "GPT-5.4 Mini"),
         ],
     ),
     Provider(
